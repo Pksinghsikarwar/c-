@@ -3,7 +3,9 @@ using namespace std;
 int main()
 { 
 // print hello statement
-
-  cout<<"just c1.cpp"<<endl;
-  return o;
+  cout<<"hey"<<endl;
+  cout<<"github"<<endl;
+  cout<<"start a journey with u"<<endl;
+  cout<<"let's have fun!!"<<endl;
+  return 0;
 }
